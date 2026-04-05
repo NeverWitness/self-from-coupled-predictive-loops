@@ -1,6 +1,6 @@
 # Theory
 
-## Self from Coupled Predictive Loops Hypothesis
+> Self from Coupled Predictive Loops Hypothesis
 
 ---
 
