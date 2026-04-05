@@ -1,7 +1,3 @@
-Below is an English version of your **theory.md**, rewritten to match a more formal, structured, and publication-oriented style similar to repositories like *Language of Stress Theory*. Terminology is standardized, sections are tightened, and phrasing is made more academic and declarative.
-
----
-
 # Theory
 
 ## Self from Coupled Predictive Loops Hypothesis
