@@ -1,0 +1,52 @@
+self-from-coupled-predictive-loops/
+│
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+│
+├── docs/
+│   ├── en/
+│   │   ├── theory.md
+│   │   ├── core_concepts.md
+│   │   ├── scientific_background.md
+│   │   ├── explanatory_power.md
+│   │   ├── predictions.md
+│   │   ├── limitations.md
+│   │   └── roadmap.md
+│   │
+│   └── zh/
+│       ├── 核心笔记.md
+│       ├── 科学支持.md
+│       ├── 推导草稿.md
+│       ├── 思考记录.md
+│       └── 后续方向.md
+│
+├── formalization/
+│   ├── definitions.md
+│   ├── minimal_model.md
+│   ├── information_theory.md
+│   └── dynamical_systems.md
+│
+├── models/
+│   ├── conceptual/
+│   │   ├── diagrams.md
+│   │   └── system_architecture.md
+│   │
+│   └── computational/   (后期使用)
+│       ├── toy_models/
+│       └── simulations/
+│
+├── experiments/
+│   ├── thought_experiments.md
+│   ├── empirical_alignment.md
+│   └── future_experiments.md
+│
+├── references/
+│   ├── papers.md
+│   ├── theories.md
+│   └── projects.md
+│
+└── assets/
+    ├── diagrams/
+    └── figures/
