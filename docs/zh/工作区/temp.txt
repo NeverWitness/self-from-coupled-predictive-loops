@@ -16,11 +16,13 @@ self-from-coupled-predictive-loops/
 │   │   └── roadmap.md
 │   │
 │   └── zh/
-│       ├── 核心笔记.md
-│       ├── 科学支持.md
-│       ├── 推导草稿.md
-│       ├── 思考记录.md
-│       └── 后续方向.md
+│       ├── 工作区
+│       │   ├── 核心笔记.md
+│       │   ├── 科学支持.md
+│       │   ├── 推导草稿.md
+│       │   ├── 思考记录.md
+│       │   ├── 后续方向.md
+│       └── 预发布
 │
 ├── formalization/
 │   ├── definitions.md
