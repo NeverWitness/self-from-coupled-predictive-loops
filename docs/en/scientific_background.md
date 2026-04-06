@@ -1,317 +1,317 @@
 # Scientific Background
 
-## Self from Coupled Predictive Loops Hypothesis
+> Self from Coupled Predictive Loops Hypothesis
 
 ---
 
-## 1. Scope
+## 1. Note
 
-This document situates the hypothesis within existing research in cognitive science, neuroscience, and related fields.
+This document outlines the relationship between this hypothesis and existing work in cognitive science, neuroscience, and related theories.
+Its goals are to:
 
-Its objectives are to:
+* Clarify the empirical foundations
+* Distinguish established findings from theoretical inferences
+* Demonstrate the compatibility and integrative nature of the model
 
-* Identify relevant empirical foundations
-* Distinguish established findings from theoretical inference
-* Demonstrate compatibility and integrative potential
-
-This framework is not constructed from first principles, but represents a structural integration of multiple established research directions.
+This framework is not constructed from scratch, but represents a structural integration of multiple existing directions.
 
 ---
 
 ## 2. Overall Correspondence
 
-The core mechanisms proposed in this model include:
+The core mechanisms involved in this model include:
 
-* Predictive processing
-* Perturbation and exploration
-* Information compression and memory
-* Temporal continuity
-* Multi-signal coupling
-* Self-attribution
+* Multi-prediction structure
+* Prediction–error minimization
+* Trajectory compression and memory
+* Cross-temporal continuity constraints
+* Multi-signal coupling and indistinguishability
+* Behavioral attribution mechanisms (agency attribution)
 
-Each of these mechanisms has support in distinct areas of existing research.
+These mechanisms are supported across different research domains. However:
+
+> They have not yet been unified into a single structural framework centered on “trajectory selection.”
 
 ---
 
-## 3. Predictive System
+## 3. Predictive Systems and Multi-Prediction Structure
 
-**Related framework:** Predictive Processing
+Related theory: Predictive Processing
 
 ---
 
 ### Established Findings
 
 * The brain continuously generates predictions about sensory input
-* Prediction error is used to update internal models
-* Predictive mechanisms operate across multiple sensory and cognitive hierarchies
+* Prediction errors are used to update internal models
+* Predictive mechanisms exist across multiple levels of neural organization
 
 ---
 
 ### Supporting Evidence
 
-* Forward models predict the consequences of self-generated actions
-* Sensory feedback from self-generated actions is attenuated
-* Self-attribution depends on predictive consistency
+* Forward models predict the outcomes of self-generated actions
+* Sensory consequences of self-generated actions are partially attenuated
+* The brain represents probability distributions rather than single outcomes
 
 ---
 
 ### Role in This Model
 
-* Constructs state evolution trajectories
-* Provides the basis for continuity evaluation
-* Determines the emergence of agency
+* Multi-prediction structure → corresponds to probabilistic expansion
+* Predictive trajectories → temporal unfolding of states and actions
+* Predictive consistency → foundation of agency and attribution
 
 ---
 
-## 4. Perturbation and Exploration
+## 4. Information Compression and Trajectory Representation
 
-**Related domains:**
-
-* Neural variability
-* Exploration mechanisms in reinforcement learning
-
----
-
-### Established Findings
-
-* Neural activity exhibits intrinsic variability
-* Resting-state networks remain continuously active
-* Behavior includes exploratory components
-
----
-
-### Supporting Evidence
-
-* Exploration–exploitation trade-off mechanisms
-* Dopaminergic systems regulate uncertainty and variability
-
----
-
-### Role in This Model
-
-* Generates candidate trajectories
-* Enables trajectory selection
-* Provides behavioral diversity
-
----
-
-## 5. Information Compression and Memory
-
-**Related frameworks:**
+Related theories:
 
 * Predictive Coding
-* Information Theory
+* Information theory (compression / efficient coding)
 
 ---
 
 ### Established Findings
 
-* The brain reduces redundancy and extracts structure from input
-* Neural representations exhibit compression properties
+* Neural systems reduce redundancy and extract statistical structure
+* Neural encoding exhibits compression properties
 
 ---
 
 ### Supporting Evidence
 
-* Memory is reconstructive rather than frame-by-frame
-* Autobiographical memory exhibits structured patterns
+* Memory is reconstructive rather than frame-by-frame storage
+* Autobiographical memory exhibits structured and pattern-based organization
 
 ---
 
 ### Role in This Model
 
-* Constructs compressed trajectories
-* Enables cross-temporal matching
-* Supports self-continuity
+* Compression defines trajectory space
+* Provides the basis for cross-temporal matching
+* Supports the structural continuity of the self
 
 ---
 
-## 6. Temporal Continuity and Integration
+## 5. Temporal Continuity and Error Minimization
 
-**Related research areas:**
+Related directions:
 
-* Temporal integration windows
-* Predictive error minimization
+* Prediction error minimization
+* Temporal integration mechanisms
 
 ---
 
 ### Established Findings
 
-* Perception and cognition involve temporal integration mechanisms
-* Systems continuously compare current states with predicted states
+* Systems continuously compare current states with predictions
+* Perception and cognition operate within temporal integration windows
 
 ---
 
 ### Supporting Evidence
 
-* Temporal consistency correlates with stability of self
-* Disruptions in temporal continuity affect identity perception
+* Temporal consistency is linked to self-stability
+* Disruptions in temporal continuity affect identity and continuity experience
 
 ---
 
 ### Role in This Model
 
-* Continuity emerges from trajectory matching
-* Continuity error serves as a central variable
+* Continuity error → deviation across temporal trajectories
+* Self-stability → result of error minimization
+* Dominant trajectory → most stable path
 
 ---
 
-## 7. Multi-Signal Integration and Unified Experience
+## 6. Multi-Signal Integration and Unified Experience
 
-**Related framework:** Integrated Information Theory
+Related theory: Integrated Information Theory
 
 ---
 
 ### Established Findings
 
-* Conscious states correlate with the degree of network integration
-* Coordinated activity across brain regions correlates with conscious content
+* Consciousness levels correlate with the degree of network integration
+* Coordinated activity across brain regions relates to conscious content
 
 ---
 
 ### Supporting Evidence
 
 * Reduced integration is associated with diminished consciousness
-* Highly integrated systems are associated with unified experience
+* Highly integrated systems correspond to more unified experience
 
 ---
 
 ### Role in This Model
 
-* Supports the mechanism of signal coupling
+* Supports signal coupling mechanisms
 * Supports the indistinguishability principle
+* Corresponds to the unity of experience
 
 ---
 
-## 8. Resource Competition and Global Access
+## 7. Competition Mechanisms and Global Access
 
-**Related framework:** Global Workspace Theory
+Related theory: Global Workspace Theory
 
 ---
 
 ### Established Findings
 
-* Information competes for processing resources in the brain
-* Only a subset of information gains global accessibility
+* Information competes for limited processing resources in the brain
+* Only a subset of information reaches global accessibility
 
 ---
 
 ### Supporting Evidence
 
-* Attention regulates information selection
-* Global broadcasting affects multiple subsystems
+* Attention modulates information selection
+* Global broadcasting influences multiple subsystems
 
 ---
 
 ### Role in This Model
 
-* Competition among trajectories
-* Selection of a dominant trajectory
+* Competition among predictive trajectories
+* Selection of the dominant trajectory
 * Stability of a single self
 
 ---
 
-## 9. Self-Model Theory
+## 8. Self-Model Theory
 
-**Related framework:** Self-Model Theory of Subjectivity
-**Proposed by:** Thomas Metzinger
+Related theory: Self-Model Theory of Subjectivity
+Proposed by: Thomas Metzinger
 
 ---
 
-### Core Claims
+### Core Ideas
 
-* The self is a dynamic model
-* The system does not represent the model as a model
-* Subjective experience corresponds to the content of the model
+* The self is a dynamically generated model
+* The system does not label it as a “model”
+* Subjective experience corresponds to the model’s content
 
 ---
 
 ### Correspondence in This Model
 
-* Self = compressed trajectory
-* First-person perspective = output format
+* Self = dominant trajectory
+* Experience = signal integration along the trajectory
+* First-person perspective = output form
 
 ---
 
-## 10. Abnormal States (Limited Support)
+## 9. Attribution Mechanisms and Agency
 
-**Related condition:** Schizophrenia
+Related directions:
+
+* Sense of agency
+* Comparator models
 
 ---
 
-### Empirical Observations
+### Established Findings
 
-* Abnormal prediction of self-generated actions
-* Impaired attribution mechanisms
+* Attribution of action depends on consistency between prediction and feedback
+* The brain compares predicted outcomes with actual feedback
+
+---
+
+### Supporting Evidence
+
+* Prediction match → self-attribution
+* Prediction mismatch → external attribution
+
+---
+
+### Role in This Model
+
+* Agency = attribution mechanism
+* Based on prediction–evolution matching
+* Bound to the dominant trajectory
+
+---
+
+## 10. Abnormal States
+
+Related condition: Schizophrenia
+
+---
+
+### Established Findings
+
+* Abnormalities in action prediction
+* Disturbances in self-attribution
 * Reduced network integration
-* Disruptions in temporal coherence
+* Impaired temporal continuity
 
 ---
 
-### Interpretation in This Model (Hypothesized)
+### Explanation in This Model
 
-* Breakdown of prediction–matching alignment
+* Disruption of prediction–matching
 * Increased continuity error
-* Disruption of signal coupling
+* Instability of the dominant trajectory
+* Breakdown of signal coupling
 
-**Note:**
+Important note:
 
-> These correspondences are structural hypotheses and do not constitute clinical explanations.
-
----
-
-## 11. Theoretical Background of First-Person Perspective
-
-**Related position:** Daniel Dennett
+> These correspondences are structural interpretations and do not constitute clinical explanations.
 
 ---
 
-### Core Claims
+## 11. Theoretical Background of the First-Person Perspective
+
+Related position: Daniel Dennett
+
+---
+
+### Core Ideas
 
 * The first-person perspective is not an independent entity
-* It arises from system-level self-description
+* It arises from narrative and reporting mechanisms within the system
 
 ---
 
 ### Correspondence in This Model
 
-* First-person perspective = single output interface
-* Emerges from indistinguishable signal fusion
+* First-person perspective = unified output of the dominant trajectory
+* Arises from indistinguishable signal integration
 
 ---
 
 ## 12. Summary of Support Strength
 
-| Component               | Level of Support                      |
-| ----------------------- | ------------------------------------- |
-| Predictive system       | High                                  |
-| Perturbation mechanisms | Moderate–high                         |
-| Compression and memory  | Moderate–high                         |
-| Temporal continuity     | Moderate                              |
-| Signal integration      | Moderate                              |
-| Indistinguishability    | Strong theoretical, limited empirical |
-| Trajectory selection    | Speculative                           |
-| Unified framework       | No direct precedent                   |
+| Mechanism                                | Level of Support              |
+| ---------------------------------------- | ----------------------------- |
+| Predictive systems / multi-prediction    | High                          |
+| Compression / representational structure | Medium–High                   |
+| Temporal continuity                      | Medium                        |
+| Signal integration                       | Medium                        |
+| Attribution mechanisms (agency)          | Medium–High                   |
+| Indistinguishability principle           | Strong theoretical support    |
+| Trajectory selection mechanism           | Speculative (core innovation) |
+| Unified framework                        | No direct precedent           |
 
 ---
 
-## 13. Conclusion
+## 13. Summary
 
-The scientific basis of this hypothesis can be summarized as follows:
+The scientific basis of this hypothesis can be summarized as:
 
-* Multiple underlying mechanisms are independently supported
-* However, they have not yet been unified into a single generative framework
+* Multiple key mechanisms have been independently studied
+* But have not yet been unified into a single generative structure
 
 The primary contribution of this model is:
 
-> The integration of prediction, compression, coupling, and temporal continuity into a unified structural mechanism.
+> To integrate multi-prediction, trajectory compression, continuity constraints, signal coupling, and attribution mechanisms into a unified framework of “trajectory selection.”
 
 Current status:
 
-* Consistent with existing scientific knowledge
+* Highly compatible with existing science
 * Possesses explanatory potential
-* Requires further formalization and empirical validation
-
----
-
-*Note: This document will be updated as the theoretical and empirical basis evolves.*
+* Still requires formalization and experimental validation
