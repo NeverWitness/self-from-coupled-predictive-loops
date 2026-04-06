@@ -206,7 +206,7 @@ Note:
 
 ---
 
-## 13. Agency
+## 13. Agency (Revised)
 
 Definition:
 
@@ -225,7 +225,7 @@ Notes:
 
 ---
 
-## 14. Attribution
+## 14. Attribution (New)
 
 Definition:
 
