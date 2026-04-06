@@ -37,12 +37,11 @@
 ## 核心表达（Core Formulation）
 
 ```text
-自我 = 连续性误差最小的轨迹  
-体验 = 不可分辨的信号耦合  
-主动性 = 预测与执行的一致性
-
+自我 = 连续性误差最小的轨迹
 Self = trajectory with minimal continuity error  
+体验 = 不可分辨的信号耦合
 Experience = indistinguishable coupled signals  
+主动性 = 预测与执行的一致性  
 Agency = successful prediction–execution alignment
 ```
 
