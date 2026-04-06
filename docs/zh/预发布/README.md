@@ -149,7 +149,3 @@ Agency = successful prediction–execution alignment
 * 最小计算模型（toy models）
 * 可检验预测设计
 * 与神经科学实验结果对照
-
----
-
-（注：中文文档主要作为工作区，英文版本为对外发布版本）
