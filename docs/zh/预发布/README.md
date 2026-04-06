@@ -123,7 +123,7 @@
 * 禁止商业使用
 * 禁止修改或衍生
 
-如需改编、基于本作品创作，请通过邮箱[hutu2025@proton.me](mailto:hutu2025@proton.me)联系作者获得书面授权。  
+如需改编、基于本作品创作，请通过[邮箱](mailto:hutu2025@proton.me)联系作者获得书面授权。  
 如希望和作者进行讨论，请使用[GitHub](https://github.com/NeverWitness/self-from-coupled-predictive-loops/) 的Discussions功能。  
 详细信息见 LICENSE 文件。
 
