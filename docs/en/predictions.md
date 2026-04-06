@@ -1,16 +1,19 @@
 # Predictions
 
-## Self from Coupled Predictive Loops Hypothesis
+> Self from Coupled Predictive Loops Hypothesis
 
 ---
 
-## 1. Scope
+## 1. Note
 
-This document presents **testable predictions** derived from the theory, distinguishing it from a purely explanatory framework.
+This document presents the **testable predictions** of the theory, in order to distinguish between:
 
-Predictions are expressed in the standardized form:
+* A purely explanatory framework
+* A scientifically testable hypothesis
 
-> If (structural or variable change) → then (observable change)
+Predictions are expressed in the form:
+
+> If (structural or variable change) → then (observable outcome change)
 
 ---
 
@@ -22,9 +25,9 @@ The model involves the following key variables:
 * Predictive consistency
 * Signal coupling strength
 * Trajectory stability
-* Perturbation magnitude
+* Perturbation intensity
 
-These variables form the basis of the predictions below.
+These variables serve as the basis for the predictions.
 
 ---
 
@@ -32,7 +35,7 @@ These variables form the basis of the predictions below.
 
 ---
 
-### Prediction 1: Increased continuity error → reduced self stability
+### Prediction 1: Increased continuity error → decreased self-stability
 
 If:
 
@@ -40,21 +43,21 @@ If:
 
 Then:
 
-* Perceived self-continuity decreases
-* Experiences of discontinuity or inconsistency emerge
+* The sense of self-continuity decreases
+* Experiences of “break” or inconsistency may occur
 
 ---
 
-### Prediction 2: Sustained high continuity error → abnormal self-attribution
+### Prediction 2: Extremely high continuity error → abnormal self-attribution
 
 If:
 
-* (E) remains persistently high
+* E remains persistently high
 
 Then:
 
-* Actions may be attributed to external causes
-* Experiences of self-alienation may arise
+* Actions may be attributed to external sources
+* A sense of self-alienation may arise
 
 ---
 
@@ -66,7 +69,7 @@ Then:
 
 If:
 
-* Predictive capability is impaired
+* Predictive capacity is impaired
 
 Then:
 
@@ -75,15 +78,15 @@ Then:
 
 ---
 
-### Prediction 4: Prediction–execution mismatch → attribution errors
+### Prediction 4: Mismatch between prediction and execution → attribution error
 
 If:
 
-* Behavioral outcomes cannot be explained by prior predictions
+* Behavioral outcomes cannot be explained by predictions
 
 Then:
 
-* Attribution shifts toward external causes
+* Attribution is more likely to shift toward external sources
 
 ---
 
@@ -91,12 +94,12 @@ Then:
 
 ---
 
-### Prediction 5: Increased coupling → enhanced experiential unity
+### Prediction 5: Increased coupling → stronger unity of experience
 
 If:
 
-* Synchronization among internal signals increases
-* Coupling strength is enhanced
+* Internal signal synchronization increases
+* Coupling strength increases
 
 Then:
 
@@ -105,16 +108,16 @@ Then:
 
 ---
 
-### Prediction 6: Reduced coupling → fragmented experience
+### Prediction 6: Reduced coupling → fragmentation of experience
 
 If:
 
-* Synchrony between signals is disrupted
+* Signals lose synchronization
 
 Then:
 
 * Experience may fragment
-* Multiple inconsistent states may emerge
+* Multiple inconsistent states may appear
 
 ---
 
@@ -126,11 +129,11 @@ Then:
 
 If:
 
-* Perturbation magnitude is within an intermediate range
+* Perturbation intensity is moderate
 
 Then:
 
-* The system maintains stability while preserving exploratory capacity
+* The system maintains stability while retaining exploratory capacity
 
 ---
 
@@ -142,12 +145,12 @@ If:
 
 Then:
 
-* Behavior becomes stereotyped
-* Adaptability decreases
+* Behavior becomes rigid
+* The system struggles to adapt to change
 
 ---
 
-### Prediction 9: High perturbation → self instability
+### Prediction 9: High perturbation → instability of self
 
 If:
 
@@ -156,7 +159,7 @@ If:
 Then:
 
 * Continuity error increases
-* Stable self-trajectories are difficult to maintain
+* The self trajectory becomes difficult to maintain
 
 ---
 
@@ -164,32 +167,32 @@ Then:
 
 ---
 
-### Prediction 10: Competing trajectories → self instability
+### Prediction 10: Competing trajectories → unstable self
 
 If:
 
-* Multiple trajectories exhibit similar continuity error
+* Multiple trajectories have similar continuity error
 
 Then:
 
-* The system may exhibit instability or switching between states
+* The system may exhibit instability or switching
 
 ---
 
-### Prediction 11: Dominant trajectory → stable self
+### Prediction 11: Clear trajectory dominance → stable self
 
 If:
 
-* One trajectory clearly minimizes continuity error
+* One trajectory is clearly optimal
 
 Then:
 
-* The self remains stable
-* Decisions become consistent
+* The self is stable
+* Decisions are consistent
 
 ---
 
-## 8. Predictions Related to Temporal Scale
+## 8. Predictions Related to Time Scale
 
 ---
 
@@ -197,7 +200,7 @@ Then:
 
 If:
 
-* The temporal integration window is shortened
+* The temporal integration window shortens
 
 Then:
 
@@ -205,7 +208,7 @@ Then:
 
 If:
 
-* The temporal integration window is extended
+* The temporal integration window expands
 
 Then:
 
@@ -226,15 +229,15 @@ If:
 Then:
 
 * Continuity matching becomes difficult
-* Self-structure becomes unstable
+* The self becomes unstable
 
 ---
 
-### Prediction 14: Increased compression → enhanced self stability
+### Prediction 14: Enhanced compression → increased self-stability
 
 If:
 
-* Compression efficiency increases
+* Compression efficiency improves
 
 Then:
 
@@ -251,15 +254,15 @@ Then:
 
 If:
 
-* The system’s output mechanism is altered
+* The system’s output mechanism changes
 
 Then:
 
-* The form of “I” expression changes
+* The expression of “I” changes
 
 However:
 
-* The underlying internal structure may remain unchanged
+* The internal structure may remain unchanged
 
 ---
 
@@ -267,7 +270,7 @@ However:
 
 ---
 
-### Prediction 16: Conditions for the emergence of self
+### Prediction 16: Conditions for the existence of self
 
 If a system possesses:
 
@@ -278,21 +281,21 @@ If a system possesses:
 
 Then:
 
-> The system will exhibit self-like behavior.
+> The system will exhibit self-like behavior
 
 ---
 
-### Prediction 17: Conditions for the absence of self
+### Prediction 17: Conditions for absence of self
 
 If:
 
 * Continuity is disrupted
-* Predictive systems are absent
+* The predictive system is absent
 * Signals are not coupled
 
 Then:
 
-> Self-related phenomena will not emerge.
+> The phenomenon of self will not emerge
 
 ---
 
@@ -300,25 +303,21 @@ Then:
 
 Potential directions for empirical testing include:
 
-* Manipulation of prediction error
-* Modification of temporal integration windows
-* Intervention in neural synchrony
-* Control of behavioral uncertainty
+* Manipulating prediction error
+* Altering temporal integration windows
+* Intervening in neural synchronization
+* Controlling behavioral uncertainty
 
 ---
 
 ## 13. Summary
 
-The predictive structure of this model is characterized by:
+The predictions of this model are characterized by:
 
-* Dependence on structural variables
-* Translability into experimental designs
-* Capacity to differentiate between competing theories
+* Being grounded in structural variables
+* Being translatable into experimental designs
+* Being capable of distinguishing between competing theories
 
-The central claim is:
+Core idea:
 
-> Variations in self and experience can be explained by changes in continuity, prediction, and coupling structures.
-
----
-
-*Note: This document presents an initial set of predictions and will be refined as the theory develops.*
+> Changes in self and experience can be explained by variations in continuity, prediction, and coupling structures.
