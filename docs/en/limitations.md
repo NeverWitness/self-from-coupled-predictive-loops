@@ -1,188 +1,225 @@
 # Limitations
 
-## Self from Coupled Predictive Loops Hypothesis
+> Self from Coupled Predictive Loops Hypothesis
 
 ---
 
-## 1. Scope
+## 1. Note
 
-This document outlines the current **boundaries, limitations, and unresolved issues** of the theory.
-
+This document clarifies the current **boundaries, limitations, and open problems** of the theory.
 Its purpose is to:
 
-* Prevent overextension of explanatory claims
-* Distinguish established components from incomplete ones
+* Avoid overinterpretation
+* Distinguish between proposed and incomplete components
 * Provide clear directions for future work
 
 ---
 
-## 2. Unresolved Problems
+## 2. Unresolved Core Problems
 
 ---
 
-### 2.1 The Ontology of Subjective Experience
+### 1. The Hard Problem of Subjective Experience
 
-The model does not explain:
+This model does not explain:
 
-> Why information processing gives rise to subjective experience.
+> Why information-processing processes give rise to subjective experience itself
 
-That is, it does not address the so-called “hard problem” of consciousness.
+Current position:
 
-**Current position:**
-
-* Describes structural conditions for experience
-* Does not explain the fundamental existence of experience
+* Describes only the structural conditions of experience
+* Does not address the ontological nature of experience
 
 ---
 
-### 2.2 Gap from Indistinguishability to Experience
+### 2. Gap from Indistinguishability to Experience
 
 The model proposes:
 
-* Indistinguishable multi-signal fusion → unified experience
+* Indistinguishable multi-signal representations → unified experience
 
-However, it does not establish:
+However, it does not rigorously explain:
 
-> Why indistinguishability necessarily implies “being experienced.”
+> Why “indistinguishable representations” necessarily correspond to “being experienced”
 
-This represents a central theoretical gap.
+This represents:
 
----
-
-## 3. Formalization Limitations
+* A key theoretical gap from information structure → subjective phenomena
 
 ---
 
-### 3.1 Lack of Precise Definition of Continuity Error
+## 3. Lack of Formalization (Core Limitation)
 
-Although the concept is introduced:
+---
 
-```id="0n3v2k"
-E = continuity error
+### 3. Continuity Error Not Strictly Defined
+
+Although proposed as:
+
 ```
+E = D(trajectory_actual || trajectory_predicted)
+```
+
+It still lacks:
+
+* A specific choice of distance or divergence function
+* Definition of temporal windows
+* Weighting and scaling parameters
+
+---
+
+### 4. Trajectory Selection Mechanism Not Formalized
+
+Although proposed as:
+
+```
+Self = argmin (continuity error over trajectories)
+```
+
+It does not specify:
+
+* Whether the optimization is continuous or discrete
+* Whether approximation or heuristic mechanisms are involved
+* Whether there are path dependencies or switching costs
+
+That is:
+
+> “argmin” is currently a descriptive expression rather than an executable mechanism
+
+---
+
+### 5. Attribution Mechanism Not Mathematically Defined
+
+Although proposed:
+
+> Agency = attribution mechanism based on prediction–evolution matching
 
 It lacks:
 
-* A rigorous mathematical formulation
-* A well-defined distance or divergence function
-* Explicit temporal window specification
+* A formal attribution function
+* Measures of attribution confidence
+* Conditions for attribution switching
+
+Therefore:
+
+> Agency remains at the level of structural description
 
 ---
 
-### 3.2 Absence of a Full Dynamical Systems Formulation
+### 6. Lack of a Complete Dynamical System Formulation
 
 The current model:
 
-* Provides a structural description
-* Has not been translated into dynamical equations
+* Emphasizes structural constraints
+* Has not yet been translated into a dynamical system
 
 Unspecified aspects include:
 
-* System evolution dynamics
-* Stability conditions
-* Convergence mechanisms
+* State evolution equations
+* Stability conditions (stable trajectories / attractors)
+* Convergence and bifurcation mechanisms
 
 ---
 
-### 3.3 Incomplete Formalization of Trajectory Selection
-
-The model proposes:
-
-```id="1p6qzx"
-Self = argmin continuity error
-```
-
-However, it does not specify:
-
-* How the optimization process is implemented
-* Whether computation is continuous or discrete
-* Whether approximate mechanisms are involved
+## 4. Experimental and Testability Limitations
 
 ---
 
-## 4. Experimental and Empirical Limitations
+### 7. Lack of Direct Experimental Validation
+
+Currently:
+
+* No experiments directly test the “trajectory selection” mechanism
+* Only indirect consistency with existing findings
 
 ---
 
-### 4.1 Lack of Direct Experimental Validation
+### 8. Observables Not Fully Operationalized
 
-At present:
+Although variables are proposed:
 
-* No dedicated experiments validate the full framework
-* Support relies on indirect correspondence with existing findings
-
----
-
-### 4.2 Undefined Observables
-
-Although key variables are proposed:
-
-* Continuity error
+* Continuity error (E)
+* Prediction–evolution matching
 * Coupling strength
-* Predictive consistency
+* Trajectory stability
+* Attribution stability
 
 They lack:
 
-* Operational definitions
-* Measurable experimental proxies
+* Concrete measurement definitions
+* A structured set of experimental metrics
 
 ---
 
-### 4.3 Limited Differentiation from Existing Theories
+### 9. Limited Distinguishability from Existing Theories
 
-The model is:
+This model is highly compatible with:
 
-* Highly compatible with Predictive Processing
-* Partially overlapping with Integrated Information Theory
-* Related to Global Workspace Theory
+* Predictive Processing
+* Integrated Information Theory
+* Global Workspace Theory
 
-However, it does not yet clearly specify:
+However, it is not yet clearly specified:
 
-> Which predictions are uniquely generated by this model.
-
----
-
-## 5. Structural Assumptions
+> Which experimental results would uniquely support this model while ruling out others
 
 ---
 
-### 5.1 Assumption of a Single Self
+## 5. Constraints of Structural Assumptions
+
+---
+
+### 10. Single Dominant Trajectory Assumption
 
 The model assumes:
 
-* The system converges toward a single dominant trajectory
+> The system tends toward a single dominant trajectory
 
-However, it does not establish:
+But does not rigorously establish:
 
-* Whether multiple stable trajectories can coexist
-* Under what conditions multiple selves might emerge
+* Whether multiple trajectories can stably coexist
+* Under what conditions trajectory splitting may occur
 
 ---
 
-### 5.2 Undefined System Boundary
+### 11. Implementation of Multi-Prediction
 
-The model does not clearly define:
+The model assumes:
 
-* How system boundaries are determined
-* How internal and external states are distinguished
+> The system can generate multiple predictive trajectories
+
+But does not specify:
+
+* How these predictions are generated (sampling, distributions, parallel simulation)
+* How computational resources constrain prediction number
+* How multiple predictions are pruned or selected
+
+---
+
+### 12. Temporal Scale Integration
+
+The model involves:
+
+* Multiple timescales (prediction, matching, compression)
+
+But does not clarify:
+
+* How these timescales are coupled
+* How they appear subjectively as a unified process
+
+---
+
+### 13. System Boundary Not Strictly Defined
+
+It remains unclear:
+
+* What constitutes the “internal system”
+* How external inputs enter the model (input vs constraint)
 
 This affects:
 
 * The scope of applicability
-* Cross-system generalization
-
----
-
-### 5.3 Unresolved Multi-Scale Temporal Structure
-
-The model involves:
-
-* Processes operating across multiple time scales
-
-However, it does not specify:
-
-* How these scales interact
-* How they integrate into a unified experience
+* Multi-system interaction scenarios
 
 ---
 
@@ -190,30 +227,30 @@ However, it does not specify:
 
 ---
 
-### 6.1 Explanations of Abnormal States Remain Hypothetical
+### 14. Explanations of Abnormal States Are Structural Hypotheses
 
-While the model can account for:
+Although the model can account for:
 
 * Abnormal self-attribution
-* Fragmented experience
+* Fragmentation of experience
 
-These explanations:
+It lacks:
 
-* Lack direct causal evidence
-* Do not constitute clinical or medical explanations
+* Direct causal evidence
+* Clinical explanatory validity
 
 ---
 
-### 6.2 Applicability to Artificial Systems Not Established
+### 15. Applicability to Artificial Systems Not Verified
 
-The model implies:
+The model suggests:
 
-* Systems satisfying the structural conditions may exhibit self-like properties
+> Systems satisfying the structural conditions may exhibit self-like behavior
 
-However, it does not demonstrate:
+However, it does not yet address:
 
-* Whether artificial systems can realize these conditions
-* How such systems would be empirically evaluated
+* How to implement such structures in artificial systems
+* How to verify their “subjectivity”
 
 ---
 
@@ -221,31 +258,30 @@ However, it does not demonstrate:
 
 ---
 
-### 7.1 Residual Dependence on Intuitive Concepts
+### 16. Some Concepts Still Rely on Intuition
 
-Key terms such as:
+Concepts such as:
 
 * “Experience”
-* “Self”
 * “Unity”
+* “Self”
 
-Although redefined, still partially rely on intuitive understanding.
+Although structurally defined, still partially rely on intuitive understanding
 
 ---
 
-### 7.2 Tension Between Language and Formal Structure
+### 17. Mismatch Between Language and Structure
 
-The model attempts to avoid:
+Although the model aims to use structural language, it inevitably uses terms such as:
 
-* Philosophical or ambiguous language
+* “I”
+* “Experience”
+* “Feeling”
 
-However, it still relies on:
+This may lead to:
 
-* Everyday semantic terms (e.g., “I”, “experience”)
-
-This may introduce:
-
-* Ambiguity or misinterpretation
+* Conceptual misinterpretation
+* Confusion with philosophical semantics
 
 ---
 
@@ -253,43 +289,46 @@ This may introduce:
 
 The current theory provides:
 
-* A coherent structural framework
-* A unified explanatory approach
+* A unified structural framework (multi-prediction + trajectory selection + attribution)
+* Cross-phenomenon explanatory power
 * Compatibility with existing research
 
-However, it remains limited by:
+However, key limitations remain:
 
-* Incomplete formalization
-* Lack of empirical validation
-* Unresolved key derivations
+* Core variables are not fully formalized
+* Dynamic mechanisms are not established
+* Experimental validation is lacking
+* Some derivations involve theoretical gaps
 
 ---
 
-## 9. Primary Limitation (Priority)
+## 9. Most Critical Limitations
 
-The most critical unresolved issue is:
+The most critical unresolved issues are:
 
-```id="7c2mqp"
-How to rigorously define continuity error and formalize its minimization process
+```
+A rigorous definition of continuity error (E) and the formalization of its minimization mechanism
 ```
 
-This issue directly impacts:
+and:
 
-* Computational tractability
-* Model simulation
+```
+The dynamical implementation of trajectory selection and attribution mechanisms
+```
+
+These directly determine:
+
+* Computational tractability of the theory
+* Simulatability of the model
 * Scientific testability
 
 ---
 
 ## 10. Future Directions
 
-To address these limitations, future work should focus on:
+To address these limitations, future work should:
 
-* Developing a formal mathematical framework
-* Defining measurable variables
-* Designing experimental tests
-* Identifying predictions that distinguish this model from existing theories
-
----
-
-*Note: This document will be updated as the theory develops.*
+* Establish a formal mathematical definition of continuity error
+* Construct dynamical system models for trajectory selection and attribution
+* Define observable variables and experimental metrics
+* Propose critical predictions that distinguish this model from alternatives
