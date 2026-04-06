@@ -114,18 +114,15 @@ Its focus is:
 
 ## License
 
-This project is licensed under:
+This repository is licensed under:
 
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0**  
 **CC BY-NC-ND 4.0**  
 [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-* Redistribution and citation allowed
-* Commercial use prohibited
-* Modification and derivative works prohibited
-
-For modification or commercial use, please contact the author via GitHub for permission.
-See the LICENSE file for details.
+Unauthorized modifications or derivative works are not permitted.  
+If you wish to modify this work, please contact the author via email [hutu2025@proton.me](mailto:hutu2025@proton.me) for additional permission.  
+If you wish to discuss with the author, please use [GitHub](https://github.com/NeverWitness/tech-fee-framework/) Discussions.  
 
 ---
 
