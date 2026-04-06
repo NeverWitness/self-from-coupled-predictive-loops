@@ -6,318 +6,333 @@
 
 ## 1. Problem Definition
 
-This theory aims to account for the following phenomena:
+This theory aims to explain the following phenomena:
 
-* The apparent unity of conscious experience
-* The persistence of a stable “self”
-* The sense of authorship (“I think”, “I act”)
-* The temporal continuity of selfhood
+* Why consciousness appears as a unified experience
+* Why there exists a stable and unique “self”
+* Why we experience “I am thinking” and “I am acting”
+* Why the self exhibits temporal continuity
 
-This framework does **not** attempt to address:
+This model does **not** attempt to answer:
 
 * Why subjective experience exists (the metaphysical “hard problem”)
 
 Instead, it focuses on:
 
-> Under what structural and dynamical conditions a system necessarily exhibits a unified self and produces subjective reports.
+> Under what structural and dynamical conditions a system will necessarily exhibit a unified self and coherent subjective reports.
 
 ---
 
-## 2. Minimal Functional Architecture
+## 2. Basic Structure (Revised Minimal Structure)
 
-A system capable of generating self and consciousness is hypothesized to minimally require three interacting processes:
+This model does not assume fixed functional modules. Instead, it proposes the following minimal structural constraint:
 
----
+> The system can generate multiple predictive trajectories and, under temporal continuity constraints, selects and maintains one of them over time.
 
-### 2.1 Perturbation Generator
-
-**Function:**
-
-* Generates candidate variations in state or behavior
-* Provides an exploratory space of possible trajectories
-* Prevents convergence to deterministic or static loops
-
-**Extended role:**
-
-* Produces multiple potential trajectories
-* Acts as a generator of “self candidates”
+This structure consists of three coupled processes (functional distinctions rather than modular separations):
 
 ---
 
-### 2.2 Predictive System
+### 2.1 Multi-Prediction
 
-**Function:**
+At any given moment, the system generates multiple possible future state trajectories.
 
-* Predicts future internal states and action outcomes
-* Constructs anticipated state trajectories
-* Supports agency and attribution
+Sources include:
 
-**Extended role:**
-
-* Matches predictions with actual states
-* Participates in evaluating temporal continuity
-
----
-
-### 2.3 Compressed Memory System
-
-**Function:**
-
-* Compresses historical states and trajectories
-* Provides the basis for temporal continuity
-* Encodes a persistent self-model
-
-**Extended role:**
-
-* Reduces noise and redundancy
-* Enables cross-temporal matching
-
----
-
-## 3. Temporal Continuity and the Self
-
-The self is not an instantaneous state, but:
-
-> A temporally continuous, compressed trajectory structure.
-
----
-
-### 3.1 Temporal Matching Mechanism
-
-The system continuously compares:
-
-* Predicted trajectory from the previous time step
-* Actual trajectory at the current time step
-
-If alignment holds:
-
-* Continuity is preserved
-* The self remains stable
+* Internal uncertainty (probabilistic distributions / sampling)
+* Modeling of potential changes
+* Parallel expansion of multiple actions or strategies
+* External or internal perturbations (not required)
 
 Thus:
 
-> Continuity arises from cross-temporal trajectory matching, not pointwise identity.
+> Multi-prediction is an intrinsic property of the system, not dependent on a specific mechanism.
+
+---
+
+### 2.2 Trajectory Compression and Representation
+
+The system compresses historical states into an encoded structure, forming comparable trajectories.
+
+Functions:
+
+* Provide cross-temporal continuity constraints
+* Reduce noise and redundancy
+* Construct a trajectory space
+
+Thus:
+
+> Compression defines the set of trajectories that can be matched and selected.
+
+---
+
+### 2.3 Matching and Selection
+
+The system continuously compares:
+
+* Actual state evolution
+* Multiple predicted trajectories
+
+and tends to:
+
+> Select the trajectory with minimal continuity error.
+
+This trajectory becomes:
+
+→ the dominant trajectory
+
+---
+
+## 3. Temporal Continuity and Trajectory Selection
+
+### 3.1 Definition of Continuity
+
+Continuity is not instantaneous agreement but a cross-temporal constraint:
+
+> Continuity = temporal sequence consistency between actual and predicted trajectories
 
 ---
 
 ### 3.2 Continuity Error
 
-Define:
+Formally:
 
-```
-E = distance(current state, predicted state from previous step)
+```text
+E = D(trajectory_actual || trajectory_predicted)
 ```
 
-or more generally:
+Or locally:
 
+```text
+E_t = d(x_t, \hat{x}_t)
 ```
-E = divergence(actual trajectory || predicted trajectory)
-```
+
+This variable serves as:
+
+* The core basis for trajectory selection
+* A measure of self-stability
 
 ---
 
-### 3.3 Self-Selection Mechanism
+### 3.3 Self as a Result of Trajectory Selection
 
-Given multiple candidate trajectories:
+Definition:
 
-```
+```text
 Self = argmin (continuity error over trajectories)
 ```
 
 That is:
 
-> The trajectory with minimal continuity error is selected as the self.
+> The self is the dominant trajectory continuously selected within trajectory space.
+
+This selection exhibits:
+
+* Temporal persistence
+* History dependence
+* Stability under constraints
 
 ---
 
 ## 4. Indistinguishability Principle
 
-If multiple internal signals satisfy:
+When multiple internal signals satisfy:
 
-* Temporal synchrony
+* High temporal synchronization
 * Reference to the same state variables
-* Lack of independent sensory channels
-* Absence of external reference
+* Shared representational space
+* Lack of independent channels or external references
 
 then:
 
-> The system cannot distinguish their sources; they are subjectively fused into a single experience.
+> The system cannot distinguish their sources, and these signals collapse into a single internal representation.
+
+This manifests subjectively as:
+
+→ a unified experience
 
 ---
 
-### 4.1 Mechanistic Basis
+## 5. Subjective Experience
 
-Indistinguishability arises from:
+Definition:
 
-* Limited temporal resolution
-* Strong signal coupling
-* Lack of channel separation
-
----
-
-## 5. Structural Definition of Experience
-
-We propose:
-
-> Subjective experience = the indistinguishable fusion of multi-source internal signals along a temporal trajectory.
+> Subjective experience = the indistinguishable coupling of multiple signals along the dominant trajectory
 
 These signals include:
 
 * Predictive signals
-* Integrative signals
-* Matching (error-evaluation) signals
+* Matching signals
+* State integration signals
+
+The unity of experience arises from:
+
+> Indistinguishability, rather than a single generating source
 
 ---
 
-## 6. Emergence of Agency
+## 6. Agency
 
-The system operates in a closed loop:
+Agency is not the result of a single successful prediction, but:
 
-```
-perturbation → prediction → execution → matching → continuity evaluation
-```
+> A process of selection and attribution among multiple predictive trajectories
 
-When:
+Specifically:
 
-* Predictions succeed
-* Matching is achieved
-* Continuity is preserved
+* The system generates multiple predictive trajectories
+* Actual evolution matches one of them
+* This match persists over time
 
-the system generates:
+Then:
 
-> A sense of agency (“I caused this action”).
+→ The current state is attributed to the dominant trajectory
+→ Experienced as “generated by me”
 
----
+If:
 
-## 7. Conditions for a Unified Self
+* Predictions fail
+* Or continuity is disrupted
 
-A system produces a single unified self when:
+Then:
 
-* A continuous compressed trajectory exists
-* A prediction–matching loop is present
-* Signals are highly coupled
-* A trajectory selection mechanism is in place
+→ Attribution may shift
+→ Experienced as externally generated
 
 ---
 
-### 7.1 Stability of a Single Self
+## 7. Unified Self and Stability
 
-Multiple competing trajectories lead to:
+The system tends to maintain:
 
-* Prediction conflicts
-* System instability
+> A single dominant trajectory
 
-Therefore, the system tends toward:
+Reasons:
 
-> A single stable trajectory (analogous to an attractor).
+* Coexisting trajectories create prediction conflicts
+* Continuity error cannot be minimized simultaneously across multiple trajectories
+* The system converges toward stable solutions (analogous to attractors)
+
+This gives rise to:
+
+* Uniqueness of the self
+* Temporal continuity
+* Stable attribution structure
 
 ---
 
-## 8. Absence of External Reference
+## 8. No External Reference and Unified Interpretation
 
-Internal processes such as:
+Internal processes (prediction, matching, integration):
 
-* Prediction
-* Matching
-* Integration
-
-operate within the same state space.
-
-However, the system lacks:
-
-* External labels
-* Independent calibration mechanisms
+* Operate within the same state space
+* Lack independent labels or external markers
 
 Thus:
 
-> Internal signals cannot be externally grounded and are unified as a single self-model.
+> The system cannot distinguish signal origins and can only form a unified interpretation
+
+This unified interpretation manifests as:
+
+* The self
+* Subjective experience
 
 ---
 
-## 9. Generation of First-Person Perspective
+## 9. Emergence of the First-Person Perspective
 
-The generative chain is:
+Generation pathway:
 
+```text
+Multi-prediction and multi-signal coupling
+→ Indistinguishability
+→ Formation of dominant trajectory
+→ Single internal representation
+→ Unified output interface
+→ Linguistic expression as “I”
 ```
-multi-signal coupling
-→ indistinguishability
-→ unified internal state
-→ single output interface
-→ linguistic expression as “I”
-```
 
-Therefore:
+Thus:
 
-> The first-person perspective is an output format, not an independent mechanism.
+> The first-person perspective is not an independent mechanism, but a structural output.
 
 ---
 
-## 10. Boundary Conditions (Absence of Self)
+## 10. Boundary Conditions (Conditions for Self)
 
-Selfhood may fail to emerge when:
+The self may fail to stably form under the following conditions:
 
-* Temporal continuity is absent
-* No predictive system exists
-* Signals are not coupled
-* No compressed trajectory is maintained
+* Inability to maintain temporal continuity
+* Absence of multi-prediction structure
+* Lack of trajectory compression (no basis for comparison)
+* Failure of signal coupling
 
----
+This implies:
 
-## 11. Minimal Definition of a Self-System
-
-A minimal system requires:
-
-```
-compressed state memory
-+ predictive system
-+ perturbation generator
-+ continuity evaluation mechanism
-```
+> The self is a product of structural conditions, not a necessary feature of all systems
 
 ---
 
-## 12. Compressed Core Formulation
+## 11. Minimal Self-System Definition
 
+A minimal self-system requires at least:
+
+```text
+State representation
++ Multi-prediction generation
++ Trajectory compression
++ Continuity evaluation
++ Selection & attribution mechanism
 ```
-Self = trajectory with minimal continuity error
-Experience = indistinguishable coupled signals
-Agency = successful prediction–execution alignment
+
+Not required:
+
+* Explicit perturbation modules
+* A dedicated “self unit”
+
+---
+
+## 12. Core Expressions (Compressed Form)
+
+```text
+Self = trajectory with minimal continuity error  
+
+Experience = indistinguishable coupled signals on the selected trajectory  
+
+Agency = attribution based on sustained prediction–evolution matching  
 ```
 
 ---
 
 ## 13. Nature of the Theory
 
-This framework is:
+This model is:
 
 * An information-structural model
 * A dynamical process model
-* A non-ontological account
+* A non-ontological model
 
-Key characteristics:
+Characteristics:
 
-* No additional “consciousness entity” is introduced
-* Emphasis on structure and constraints
-* Amenable to formalization and simulation
+* Does not introduce additional conscious entities
+* Emphasizes constraints and selection mechanisms
+* Amenable to formalization (information theory / dynamical systems)
+* Amenable to simulation (multi-trajectory systems)
 
 ---
 
-## 14. Limitations
+## 14. Current Limitations
 
-* Lack of fully formal mathematical specification
-* Continuity error not yet rigorously defined
-* No empirical validation at present
-* Does not address the ontological nature of subjective experience
+* Continuity error is not yet rigorously formalized
+* The trajectory selection mechanism lacks a complete dynamical model
+* The attribution mechanism is not fully mathematized
+* No experimental validation yet
+* Does not address the ontological nature of experience
 
 ---
 
 ## 15. Future Work
 
-* Information-theoretic formalization
-* Dynamical systems modeling
-* Minimal simulation implementations
-* Design of testable predictions
-
----
-
-*Note: This document represents the core theoretical framework and will be continuously refined as the project evolves.*
+* Formal definition of continuity error
+* Dynamical systems modeling of trajectory selection and attribution
+* Minimal simulations of multi-prediction systems (toy models)
+* Development of observable metrics and experimental designs
