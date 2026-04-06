@@ -4,269 +4,284 @@
 
 ---
 
-## 1. Scope
+## 1. Note
 
-This document provides **minimally ambiguous definitions** of the core concepts used in the framework.
-
-All terms are defined **within this theoretical context** and do not necessarily correspond to their usage in everyday language or other theories.
+This document provides **minimally ambiguous definitions** of the core concepts used in the theory.
+All concepts are defined within this framework and do not fully correspond to their usage in everyday language or other theories.
 
 ---
 
 ## 2. Self
 
-**Definition:**
+Definition:
 
-> The self is the trajectory, continuous in time and represented in compressed form, that minimizes continuity error.
+> The self is the dominant trajectory in trajectory space that is continuously selected as having minimal continuity error.
 
-**Formal expression:**
+Formal expression:
 
 ```
 Self = argmin (continuity error over trajectories)
 ```
 
-**Notes:**
+Notes:
 
 * The self is not an entity
-* It is a selected dynamical process
-* It exhibits temporal persistence and structural stability
+* It is the result of trajectory selection
+* It exhibits temporal persistence and history dependence
 
 ---
 
-## 3. Experience
+## 3. Subjective Experience
 
-**Definition:**
+Definition:
 
-> Subjective experience is the indistinguishable fusion of multi-source internal signals along a temporally continuous trajectory.
+> Subjective experience is the result of indistinguishable coupling of multiple internal signals along the dominant trajectory.
 
-These signals include:
+Relevant signals:
 
 * Predictive signals
 * Matching signals
-* Integrative signals
+* State integration signals
 
-**Notes:**
+Notes:
 
 * Experience is not an additional property
-* It is a mode of system state representation
+* It is a structural manifestation of system state
+* Its unity arises from indistinguishability
 
 ---
 
-## 4. Prediction
+## 4. Multi-Prediction
 
-**Definition:**
+Definition:
 
-> Prediction is the internal generation of future states or action outcomes by the system.
+> Multi-prediction is the system’s capacity to generate multiple possible future state trajectories simultaneously.
 
-**Notes:**
+Possible sources include:
 
-* Prediction applies to both external events and internal actions
-* It forms the basis of trajectory generation
+* Internal uncertainty (probabilistic distributions / sampling)
+* Expansion of multiple strategies or pathways
+* Modeling of potential changes
 
----
+Notes:
 
-## 5. Compression
-
-**Definition:**
-
-> Compression is the process of transforming historical states and behavioral trajectories into lower-dimensional structured representations.
-
-**Functions:**
-
-* Removes redundancy
-* Extracts stable patterns
-* Enables cross-temporal matching
-* Provides the structural basis of the self
-
-**Notes:**
-
-Compression enables the self to persist as a stable dynamic structure.
+* Multi-prediction is a fundamental property of the system
+* It does not depend on perturbations
 
 ---
 
-## 6. Perturbation
+## 5. Prediction
 
-**Definition:**
+Definition:
 
-> Perturbation is the process by which variability and uncertainty are introduced into system states.
+> Prediction is the internal process by which the system generates future states or behavioral outcomes.
 
-**Functions:**
+Notes:
 
-* Generates multiple candidate trajectories
-* Enables exploration
-* Supports trajectory selection
-
-**Notes:**
-
-Perturbation is not merely noise; it is a necessary condition for self-generation.
+* Can take the form of probability distributions or multiple trajectories
+* Applies to both external environment and self-generated actions
+* Forms the basis of the multi-prediction structure
 
 ---
 
-## 7. Continuity
+## 6. Trajectory
 
-**Definition:**
+Definition:
 
-> Continuity is the degree of consistency between the current state and its historical trajectory.
+> A trajectory is the continuous evolution path of system states over time.
 
-**Depends on:**
-
-* Predictive system
-* Compressed trajectory
-* Matching mechanism
-
-**Notes:**
-
-Continuity is a necessary condition for the existence of the self.
-
----
-
-## 8. Continuity Error
-
-**Definition:**
-
-```
-E = distance(current state, predicted state from previous step)
-```
-
-or:
-
-```
-E = divergence(actual trajectory || predicted trajectory)
-```
-
-**Notes:**
-
-* Smaller (E) → stronger continuity
-* Larger (E) → reduced self stability
-
----
-
-## 9. Coupling
-
-**Definition:**
-
-> Coupling is the strong temporal and variable-level dependency among multiple internal signals.
-
-**Conditions:**
-
-* Temporal synchrony
-* Reference to the same state variables
-* Shared processing channels
-
-**Notes:**
-
-Coupling is a prerequisite for unified experience.
-
----
-
-## 10. Indistinguishability
-
-**Definition:**
-
-> Indistinguishability occurs when multiple signals cannot be differentiated by the system with respect to their source, and are therefore experienced as a single unified signal.
-
-**Conditions:**
-
-* Temporal synchrony
-* Lack of independent channels
-* Absence of external reference
-
-**Notes:**
-
-Indistinguishability is the direct cause of unified experience.
-
----
-
-## 11. Agency
-
-**Definition:**
-
-> Agency is the process by which the system attributes actions to itself.
-
-**Conditions:**
-
-* Successful prediction
-* Alignment between predicted and actual outcomes
-* Preservation of continuity
-
-**Notes:**
-
-Agency emerges from the prediction–matching loop.
-
----
-
-## 12. Trajectory
-
-**Definition:**
-
-> A trajectory is the temporally ordered evolution of system states.
-
-**Types:**
+Types:
 
 * Actual trajectory
 * Predicted trajectory
 * Compressed trajectory
 
-**Notes:**
+Notes:
 
-The self is defined at the level of trajectories, not instantaneous states.
+* The self exists at the level of trajectories
+* Not at a single time point
 
 ---
 
-## 13. Trajectory Selection
+## 7. Trajectory Compression
 
-**Definition:**
+Definition:
 
-> Trajectory selection is the process of choosing, among multiple candidate trajectories, the one with minimal continuity error as the dominant trajectory.
+> Trajectory compression is the process of transforming historical states into a low-dimensional, comparable structure.
 
-**Notes:**
+Functions:
 
+* Provide cross-temporal continuity constraints
+* Reduce noise and redundancy
+* Define trajectory space
+
+Note:
+
+> Without compression, trajectory matching and selection cannot occur
+
+---
+
+## 8. Continuity
+
+Definition:
+
+> Continuity is the degree of temporal consistency between actual and predicted trajectories.
+
+Notes:
+
+* It is a cross-temporal property
+* Not instantaneous agreement
+* Determines the stability of the self
+
+---
+
+## 9. Continuity Error
+
+Definition:
+
+```
+E = D(trajectory_actual || trajectory_predicted)
+```
+
+or locally:
+
+```
+E_t = d(x_t, \hat{x}_t)
+```
+
+Notes:
+
+* Smaller E → stronger continuity
+* E is the core variable in trajectory selection
+
+---
+
+## 10. Trajectory Selection
+
+Definition:
+
+> The process of selecting, among multiple predicted trajectories, the one with minimal continuity error as the dominant trajectory.
+
+Notes:
+
+* A continuous dynamic process
 * Determines the current self
-* Ensures system stability
-* Prevents coexistence of multiple selves
+* Exhibits history dependence
 
 ---
 
-## 14. System Boundary
+## 11. Coupling
 
-**Definition:**
+Definition:
 
-> The system boundary is the distinction between internal states and external inputs.
+> The strong association of multiple internal signals across time and state variables.
 
-**Notes:**
+Conditions:
 
-* The self exists only within the system
-* External inputs function as inputs or perturbations
+* Temporal synchronization
+* Reference to the same variables
+* Shared representational space
+
+Note:
+
+Coupling is the prerequisite for indistinguishability.
 
 ---
 
-## 15. First-Person Perspective
+## 12. Indistinguishability
 
-**Definition:**
+Definition:
 
-> The first-person perspective is the expression of a unified internal state through a single output interface.
+> When multiple signals cannot be distinguished in terms of their source within the system, they collapse into a single representational state.
 
-**Generative pathway:**
+Conditions:
+
+* Temporal synchronization
+* No independent channels
+* No external reference
+
+Note:
+
+> Indistinguishability is the direct source of unified experience
+
+---
+
+## 13. Agency
+
+Definition:
+
+> Agency is the process by which the system attributes current state evolution to a particular predictive trajectory.
+
+Conditions:
+
+* Actual evolution matches a prediction
+* The match persists over time
+
+Notes:
+
+* Agency = attribution mechanism
+* Bound to the dominant trajectory
+* Not merely “prediction success”
+
+---
+
+## 14. Attribution
+
+Definition:
+
+> Attribution is the process of mapping the current state to a specific predictive trajectory as its “source.”
+
+Notes:
+
+* Determines whether behavior is experienced as self-generated
+* Depends on continuity and degree of matching
+* Can shift under abnormal conditions
+
+---
+
+## 15. System Boundary
+
+Definition:
+
+> The boundary that distinguishes internal system states from external inputs.
+
+Notes:
+
+* External factors influence prediction distributions
+* But do not directly define the self
+* The self is an internal structural result
+
+---
+
+## 16. First-Person Perspective
+
+Definition:
+
+> The first-person perspective is the expressive form produced when the unified state along the dominant trajectory is output through a single interface.
+
+Generation pathway:
 
 ```
-signal coupling → indistinguishability → unified state → output → “I”
+Multi-prediction and signal coupling
+→ Indistinguishability
+→ Formation of dominant trajectory
+→ Single internal representation
+→ Output
+→ “I”
 ```
 
-**Notes:**
+Notes:
 
 * The first-person perspective is not an independent mechanism
-* It is a mode of system-level expression
+* It is a structural output
 
 ---
 
-## 16. Summary
+## 17. Summary
 
-The core concepts in this framework share the following properties:
+The core concepts in this framework share the following characteristics:
 
-* Process-based definitions
-* No reliance on ontological entities
-* Amenable to formalization
-* Strong interdependence
-
----
-
-*Note: This document standardizes terminology and will be revised as the theory develops.*
+* All are process-based and structural definitions
+* None rely on ontological entities
+* Centered on “trajectory + selection + continuity”
+* Highly coupled with one another
