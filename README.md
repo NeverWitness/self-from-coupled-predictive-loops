@@ -1,7 +1,7 @@
 # Self from Coupled Predictive Loops Hypothesis
 
 > A structural framework for explaining consciousness based on predictive dynamics, temporal compression, and signal coupling
-> *(Self from Coupled Predictive Loops Hypothesis)*
+> **Self from Coupled Predictive Loops Hypothesis**
 
 ---
 
@@ -9,130 +9,286 @@
 
 ### Intuitive Overview
 
-We usually think of the “self” as something stable and persistent. This framework proposes instead that what we call the “self” is better understood as a trajectory continuously unfolding over time.
+We usually think of the “self” as something stable and persistent. This framework proposes instead that what we call the “self” is better understood as a trajectory that continuously extends through time.
 
-The brain is constantly engaged in three processes: it generates possible actions and state transitions; it produces multiple predictions about what may happen next; and it compresses past experiences into a structure that can be continuously reused. These processes are not separate—they operate simultaneously within a single system.
+The brain continuously engages in multiple interrelated processes: it predicts what may happen next, maintains multiple possible directions of future development, and compresses past experience into an integrated structure that can be continuously used.
 
-At any given moment, the system implicitly contains multiple possible future trajectories rather than a single determined path. However, only one trajectory can be stably extended forward in time. This trajectory is characterized by two properties: it is the most consistent with the past and the most aligned with what is currently occurring. It can be understood as the “most coherent path.” The continuous extension of this path constitutes what we experience as the “self.”
+In such a system, the future is not a single predetermined path. Instead, multiple possible predictive trajectories coexist. As the actual state continues to evolve, some predictions become more consistent with what actually occurs. The system tends to maintain the trajectory that is both most coherent with the past and most consistent with ongoing state evolution. It can be understood as the “smoothest path” continuously selected from among many possibilities.
 
-Subjective experience can be understood in a similar way. Within the brain, prediction, comparison, and integration processes all operate simultaneously and converge on the same state. There is no independent observer separating their sources. As a result, these processes become indistinguishable at the subjective level and merge into a unified experience, rather than appearing as separate signals.
+This dominant trajectory, continuously selected and maintained over time, constitutes what we experience as the “self.”
 
-The sense of “I am thinking” or “I am acting” can also arise from this structure. The system typically generates multiple predictive trajectories. The actual unfolding of events matches one of them. If this match persists over time, that trajectory continues to be selected, and the system attributes the resulting actions to a single source. This gives rise to the feeling that “I did this.” Conversely, when predictions fail or continuity is disrupted, attribution may shift, and some thoughts or actions may no longer feel self-generated.
+Subjective experience can be understood through the same structure. Multiple processes—including prediction, matching, and state integration—operate simultaneously within the system. When their signals are highly synchronized in time, refer to the same state, share a representational space, and lack independent channels through which the system could distinguish their sources, they become internally indistinguishable.
 
-These multiple predictions do not require external disturbances. They can arise intrinsically from the system’s uncertainty (e.g., sampling or expansion of possibilities), estimation of potential changes, or simultaneous modeling of multiple scenarios. External perturbations are only one possible source, not a necessary condition.
+As a result, what we experience is not a collection of independent signals, but a unified whole.
 
-From this perspective, the self is not an entity hidden within the system, but a process that is continuously selected and maintained. Its apparent stability comes from the system consistently selecting the most coherent trajectory among many possibilities. Its apparent unity arises because internal signals are structurally indistinguishable.
+The sense of “I am thinking” or “I am acting” further involves attribution. The system typically does not generate only one prediction about the future; instead, multiple possible predictions coexist. When actual state evolution matches one of these predictions, and that match persists over time, the corresponding action or thought is attributed to the current dominant trajectory and is therefore experienced as “generated by me.”
 
-In summary, this model proposes that what we experience as the “self” is a continuously selected trajectory in time, and subjective experience is the result of multiple processes along this trajectory merging into an indistinguishable whole.
+If predictions repeatedly fail, or if continuity between actual evolution and the current trajectory substantially decreases, attribution may shift, causing certain actions or thoughts to appear as though they were not self-generated.
+
+These multiple predictions do not require perturbations to exist. They may arise from the system’s intrinsic uncertainty, probabilistic sampling, or parallel modeling of different possible states, and they may also be influenced by internal or external perturbations. Perturbation is therefore only one factor that may affect the multi-prediction structure; it is not a necessary condition for the formation of self or subjective experience.
+
+From this perspective, the self is not an entity hidden within the system, but a dynamic process that is continuously selected and maintained. Likewise, the unity of experience does not arise because only one process exists within the system, but because multiple processes are structurally unavailable for further differentiation by the system itself.
+
+In one sentence:
+
+> What we experience as the “self” is a temporal trajectory continuously selected from among multiple possibilities; subjective experience is the unified state produced when multiple internal processes along that trajectory become indistinguishably coupled.
 
 ---
 
 ### Formal Overview
 
-This framework proposes that the self and subjective experience are structural products of a prediction-driven system. As the system continuously generates candidate actions (potentially including perturbations), predicts its own state evolution, and compresses past states into a representational structure, a set of temporal trajectories emerges. At any moment, the system does not occupy a single trajectory but implicitly contains multiple potential trajectories. Through a consistency constraint between prediction and actual evolution, the system selects the trajectory with minimal continuity error as the dominant trajectory. The stable extension of this trajectory over time constitutes the “self,” which can be formalized as a minimization process over continuity error in trajectory space.
+This framework proposes that the self and subjective experience can be understood as structural products of a prediction-driven system. The system continuously generates multiple possible future state trajectories, compresses historical states into representations, and maintains a dominant trajectory within trajectory space through sustained matching between predictions and actual state evolution.
 
-Within this structure, subjective experience does not correspond to a single independent process. Instead, it arises from the coupling of multiple internal signals (prediction, matching, integration) onto the same state variables. These signals are temporally synchronized, refer to the same representational content, and lack independent channels or external references. As a result, they are indistinguishable within the system and functionally manifest as a single experience. In other words, the unity of experience arises from the inseparability of signals, not from their singularity.
+At any given moment, the system does not have only one possible future but implicitly maintains multiple predictive trajectories. As actual evolution unfolds, the system tends to select the trajectory with the lowest continuity error under a cross-temporal prediction–evolution consistency constraint. The stable continuation of this trajectory over time constitutes the “self.”
 
-Agency is not the result of a single successful prediction but emerges from a process of competing predictions and attribution selection. The system generates multiple predictive trajectories for its own behavior, and the actual state evolution aligns with one of them. When this alignment persists within the compressed trajectory, the behavior is attributed to the current dominant trajectory, producing the experience of being self-generated. When prediction fails or continuity error increases significantly, the attribution mechanism may shift away from the dominant trajectory, leading to experiences of external origin.
+Subjective experience corresponds to the indistinguishable coupling of multiple internal signals along the dominant trajectory. When predictive, matching, integrative, and related signals are highly synchronized in time, co-refer to the same state within representational space, and lack independent channels or external references, they cannot be further distinguished within the system and therefore functionally manifest as a unified experience.
 
-The sources of these multiple predictions may vary, including but not limited to: the sampling properties of predictive processes, modeling and estimation of potential perturbations, the influence of perturbations on system states or predictions, and combinations of these factors. Thus, multi-prediction structure is an intrinsic property of the system rather than something that depends on external disturbances.
+Agency is not simply the result of a single successful prediction, but a process of matching and attribution under conditions of multiple predictions. When actual state evolution persistently matches a particular prediction, and that match remains continuous with the current dominant trajectory, the corresponding action or thought is attributed to that trajectory and is therefore experienced as “generated by me.”
 
-The core constraint of the model is that the system tends to minimize cross-temporal trajectory deviation, thereby maintaining a single stable trajectory. The coexistence of multiple trajectories introduces prediction conflicts and reduces stability, and is therefore suppressed. This mechanism accounts for the uniqueness, continuity, and dynamic stability of the self under predictive and potentially perturbed conditions. Importantly, the formation of the self and subjective experience does not depend on perturbations but arises from the prediction–matching–compression structure itself.
+Sources of multi-prediction may include internal uncertainty, probability distributions or sampling processes, parallel expansion of different strategies and future states, modeling of potential perturbations, and the effects of perturbations themselves on prediction or actual evolution. Thus, multi-prediction does not depend on perturbation, and neither the self nor subjective experience requires perturbation as a necessary condition.
 
-Accordingly, the self can be understood as a trajectory continuously selected over time rather than an independent entity, while subjective experience is the result of indistinguishable integration of multiple signals along that trajectory.
+Formally, the framework can be compressed into three correspondences:
 
-Formally, the framework can be summarized by three correspondences:
+```text
+Self = trajectory with minimal continuity error
 
-* Self → trajectory with minimal continuity error
-* Experience → indistinguishable coupling of signals
-* Agency → selection and attribution among multiple predictive trajectories
+Experience = indistinguishable coupled signals on the selected trajectory
+
+Agency = attribution based on sustained prediction–evolution matching
+```
 
 ---
 
-## Status
+## Theory
 
-This is an **early-stage theoretical hypothesis**:
+The core of the theory is not a set of three independent functional modules, but a continuously operating dynamic structure:
 
-* Not yet formally validated
-* No complete mathematical formulation yet
-* Proposed as an exploratory framework
+```text
+Multi-prediction generation
+→ Actual state evolution
+→ Prediction–evolution matching
+→ Continuity evaluation
+→ Dominant trajectory selection
+→ Historical trajectory compression and updating
+→ Constraints on subsequent predictions
+```
+
+Within this cycle, the self corresponds to the continuously maintained dominant trajectory; experience corresponds to indistinguishable signal coupling along that trajectory; and agency corresponds to source attribution following sustained matching between actual evolution and prediction.
+
+→ [View the full theoretical framework](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E7%90%86%E8%AE%BA%E6%A1%86%E6%9E%B6.md)
+
+---
+
+## Core Concepts
+
+Terms such as “self,” “experience,” “agency,” “trajectory,” “continuity error,” “coupling,” and “indistinguishability” have specific definitions within this framework and do not fully correspond to their meanings in everyday language.
+
+The three most central concepts are:
+
+* **Self**: the dominant trajectory continuously selected within trajectory space
+* **Subjective Experience**: the indistinguishable coupling of multiple signals along the dominant trajectory
+* **Agency**: an attribution mechanism based on sustained matching between prediction and actual evolution
+
+→ [View core concepts and terminology](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
 
 ---
 
 ## Core Mechanism
 
-At any given moment, the system does not correspond to a single future but maintains multiple predictive trajectories simultaneously. The actual state evolution aligns with one of these trajectories, forming a continuous structure over time.
+At any given moment, the system maintains multiple possible predictive trajectories simultaneously, while actual evolution proceeds along only one state path.
 
-By minimizing continuity error across time, the system continuously selects and maintains a dominant trajectory.
+The system continuously compares actual evolution with predictive trajectories and maintains a dominant trajectory through cross-temporal continuity constraints. Historical states are simultaneously compressed into reusable trajectory representations, which in turn influence subsequent predictions.
 
-This gives rise to three phenomena:
+This structure produces three interrelated outcomes:
 
-* Self: the continuously selected trajectory
-* Subjective experience: indistinguishable integration of multiple signals along the trajectory
-* Agency: attribution resulting from prediction–actual alignment
+```text
+Trajectory selection → Self
+Indistinguishable coupling → Subjective experience
+Sustained matching and attribution → Agency
+```
 
----
-
-## Key Principle: Indistinguishability
-
-When multiple internal signals are temporally synchronized, refer to the same state variables, and lack independent channels or references, they become indistinguishable within the system. This indistinguishability manifests subjectively as a unified experience.
+Perturbations may alter the predictive distribution or actual evolution, but they are not necessary for this structure to operate.
 
 ---
 
-## Explanatory Scope
+## Indistinguishability Principle
 
-This framework attempts to explain, from a structural perspective:
+When multiple internal signals:
 
-* The unity of consciousness
-* The sense of voluntary action
+* Are highly synchronized in time
+* Refer to the same state variables
+* Share a representational space
+* Lack independent channels
+* Lack external references
+
+the system cannot reliably distinguish the sources of these signals.
+
+Therefore:
+
+> The unity of experience may arise from the internal indistinguishability of multiple signals, rather than from a single signal or a single consciousness module.
+
+---
+
+## Explanatory Power
+
+This framework attempts to explain the following phenomena using the same set of structural mechanisms:
+
+* The unity of conscious experience
 * The temporal continuity of the self
-* Certain anomalies in self-attribution
+* The typical uniqueness of the self
+* The sense of being the subject of “I am thinking” and “I am acting”
+* Self-attribution of actions and thoughts
+* Certain disturbances of self-attribution and agency
+
+Rather than treating these as independent problems, the framework interprets them as different manifestations of the joint operation of multi-prediction, trajectory selection, continuity constraints, signal coupling, and attribution.
+
+→ [View explanatory power](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E8%A7%A3%E9%87%8A%E8%83%BD%E5%8A%9B.md)
 
 ---
 
-## Relation to Existing Theories
+## Scientific Background
 
-This hypothesis is inspired by and compatible with:
+This hypothesis is not constructed from scratch. It has structural correspondences with several existing research directions, including:
 
 * Predictive Processing
-* Integrated Information Theory
+* Forward Models
+* Predictive Coding
+* Efficient Coding / Information Compression
+* Temporal Integration
+* Sense of Agency / Comparator Models
 * Global Workspace Theory
+* Integrated Information Theory
+* Self-Model Theory
 
-Rather than replacing these theories, this framework aims to reinterpret and integrate them from an information-structural perspective.
+Existing research provides varying degrees of support for mechanisms involving prediction, error processing, temporal integration, information compression, action attribution, neural synchronization, and self-modeling.
 
----
+However, an important distinction must be maintained:
 
-## Important Note
+> Evidence supporting individual mechanisms within the framework does not amount to validation of the complete “multi-prediction–trajectory selection–indistinguishable coupling” theory.
 
-This project **does not claim to solve the “hard problem” of consciousness**.
-
-Its focus is:
-
-> Under what structural and dynamical conditions a system will necessarily exhibit self-like behavior and unified subjective reports.
+→ [View scientific background](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E7%A7%91%E5%AD%A6%E8%83%8C%E6%99%AF.md)
 
 ---
 
-## License
+## Predictions
 
-This project is licensed under the following terms:
+To develop the framework from an explanatory model into a scientifically testable hypothesis, the project proposes a series of testable predictions.
 
-**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0**  
-**CC BY-NC-ND 4.0**  
-[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+The primary variables include:
 
-* Redistribution and citation are permitted
-* Commercial use is prohibited
-* Modification and derivative works are prohibited
+* Continuity error
+* Degree of prediction–evolution matching
+* Structure of the multi-prediction distribution
+* Trajectory stability
+* Signal coupling strength
+* Attribution stability
 
-For adaptations or derivative use, please contact the author via [email](mailto:hutu2025@proton.me) to obtain written permission.  
-For discussion with the author, please use the Discussions feature on [GitHub](https://github.com/NeverWitness/self-from-coupled-predictive-loops/).  
-See the LICENSE file for details.
+For example, the theory predicts that when continuity errors among multiple candidate trajectories become very similar, switching of the dominant trajectory should become more likely. Likewise, when sustained matching between prediction and actual evolution is disrupted, the sense of agency and self-attribution should decrease accordingly.
+
+→ [View testable predictions](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E5%8F%AF%E6%A3%80%E9%AA%8C%E9%A2%84%E6%B5%8B.md)
+
+---
+
+## Limitations
+
+This framework is currently at an early theoretical stage.
+
+Major unresolved issues include:
+
+* Continuity error has not yet received a rigorous mathematical definition
+* The trajectory selection mechanism has not yet been expressed as a complete dynamical model
+* The specific implementation of multi-prediction remains undetermined
+* The agency attribution mechanism has not yet been mathematically formalized
+* A theoretical explanatory gap remains between indistinguishability and subjective experience
+* Direct experimental validation of the complete framework is currently lacking
+* The framework does not yet provide sufficiently distinctive predictions to clearly differentiate it from other theories of consciousness
+
+In addition, this model does not attempt to explain:
+
+> Why information processing itself is accompanied by subjective experience.
+
+It is therefore not currently proposed as a solution to the “hard problem” of consciousness.
+
+→ [View the full limitations](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E5%B1%80%E9%99%90%E6%80%A7.md)
+
+---
+
+## Status
+
+This is an **early-stage theoretical hypothesis**.
+
+Currently:
+
+* A basic conceptual framework has been established
+* Basic structural correspondences for Self / Experience / Agency have been defined
+* Multi-prediction, trajectory selection, and attribution mechanisms have been proposed
+* Relationships with existing scientific research have been outlined
+* Preliminary testable predictions have been proposed
+
+However:
+
+* Rigorous mathematical formalization has not yet been completed
+* A complete computational model has not yet been developed
+* The framework has not yet undergone direct experimental validation
 
 ---
 
 ## Future Directions
 
-* Theoretical formalization (information theory / dynamical systems)
-* Computational simulations (toy models)
-* Development of testable predictions
-* Comparison with empirical findings in neuroscience
+The next stage will primarily involve:
+
+1. Defining continuity error and its relevant timescales
+2. Developing a dynamical systems model of trajectory selection
+3. Formalizing prediction–evolution matching and attribution mechanisms
+4. Constructing a minimal multi-prediction simulation system (toy model)
+5. Defining observable variables and experimental metrics
+6. Developing critical experimental predictions capable of distinguishing this framework from related theories
+
+---
+
+## Documentation
+
+Pre-release theoretical documents:
+
+* [Theory](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E7%90%86%E8%AE%BA%E6%A1%86%E6%9E%B6.md)
+* [Core Concepts](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
+* [Explanatory Power](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E8%A7%A3%E9%87%8A%E8%83%BD%E5%8A%9B.md)
+* [Scientific Background](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E7%A7%91%E5%AD%A6%E8%83%8C%E6%99%AF.md)
+* [Predictions](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E5%8F%AF%E6%A3%80%E9%AA%8C%E9%A2%84%E6%B5%8B.md)
+* [Limitations](docs/en-US/limitations.md)
+
+The Chinese-language workspace is used to record theoretical derivations, supplementary material, and open questions that have not yet been fully stabilized:
+
+* `核心笔记.md`
+* `重要补充.md`
+* `科学支持.md`
+* `待完善细节.md`
+
+---
+
+## License
+
+This project is licensed under:
+
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0**
+**CC BY-NC-ND 4.0**
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Permitted:
+
+* Redistribution
+* Citation
+
+Prohibited:
+
+* Commercial use
+* Unauthorized modification or creation of derivative versions
+
+For permission to modify, create derivative works, or use the material commercially, please contact the author via GitHub.
+
+See the `LICENSE` file for full terms.
+
+---
+
+> The Chinese-language documents primarily serve as a workspace for theoretical development, organization, and extension. The English-language version is intended to serve as the primary public-facing version.
