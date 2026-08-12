@@ -3,6 +3,8 @@
 > A structural framework for explaining consciousness based on predictive dynamics, temporal compression, and signal coupling
 > **Self from Coupled Predictive Loops Hypothesis**
 
+→ [Chinese Version 中文版本](docs/zh/预发布/README.md)
+
 ---
 
 ## Overview
