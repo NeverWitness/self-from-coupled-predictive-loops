@@ -75,7 +75,7 @@ Multi-prediction generation
 
 Within this cycle, the self corresponds to the continuously maintained dominant trajectory; experience corresponds to indistinguishable signal coupling along that trajectory; and agency corresponds to source attribution following sustained matching between actual evolution and prediction.
 
-→ [View the full theoretical framework](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E7%90%86%E8%AE%BA%E6%A1%86%E6%9E%B6.md)
+→ [View the full theoretical framework](docs/en-US/theory.md)
 
 ---
 
@@ -89,7 +89,7 @@ The three most central concepts are:
 * **Subjective Experience**: the indistinguishable coupling of multiple signals along the dominant trajectory
 * **Agency**: an attribution mechanism based on sustained matching between prediction and actual evolution
 
-→ [View core concepts and terminology](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
+→ [View core concepts and terminology](docs/en-US/core_concepts.md)
 
 ---
 
@@ -142,7 +142,7 @@ This framework attempts to explain the following phenomena using the same set of
 
 Rather than treating these as independent problems, the framework interprets them as different manifestations of the joint operation of multi-prediction, trajectory selection, continuity constraints, signal coupling, and attribution.
 
-→ [View explanatory power](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E8%A7%A3%E9%87%8A%E8%83%BD%E5%8A%9B.md)
+→ [View explanatory power](docs/en-US/explanatory_power.md)
 
 ---
 
@@ -166,7 +166,7 @@ However, an important distinction must be maintained:
 
 > Evidence supporting individual mechanisms within the framework does not amount to validation of the complete “multi-prediction–trajectory selection–indistinguishable coupling” theory.
 
-→ [View scientific background](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E7%A7%91%E5%AD%A6%E8%83%8C%E6%99%AF.md)
+→ [View scientific background](docs/en-US/scientific_background.md)
 
 ---
 
@@ -185,7 +185,7 @@ The primary variables include:
 
 For example, the theory predicts that when continuity errors among multiple candidate trajectories become very similar, switching of the dominant trajectory should become more likely. Likewise, when sustained matching between prediction and actual evolution is disrupted, the sense of agency and self-attribution should decrease accordingly.
 
-→ [View testable predictions](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E5%8F%AF%E6%A3%80%E9%AA%8C%E9%A2%84%E6%B5%8B.md)
+→ [View testable predictions](docs/en-US/predictions.md)
 
 ---
 
@@ -248,21 +248,7 @@ The next stage will primarily involve:
 
 ## Documentation
 
-Pre-release theoretical documents:
-
-* [Theory](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E7%90%86%E8%AE%BA%E6%A1%86%E6%9E%B6.md)
-* [Core Concepts](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5.md)
-* [Explanatory Power](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E8%A7%A3%E9%87%8A%E8%83%BD%E5%8A%9B.md)
-* [Scientific Background](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E7%A7%91%E5%AD%A6%E8%83%8C%E6%99%AF.md)
-* [Predictions](https://chatgpt.com/g/g-p-69d2a262c4e481919cb75fa8aba2a04d/c/%E5%8F%AF%E6%A3%80%E9%AA%8C%E9%A2%84%E6%B5%8B.md)
-* [Limitations](docs/en-US/limitations.md)
-
-The Chinese-language workspace is used to record theoretical derivations, supplementary material, and open questions that have not yet been fully stabilized:
-
-* `核心笔记.md`
-* `重要补充.md`
-* `科学支持.md`
-* `待完善细节.md`
+The Chinese-language workspace is used to record theoretical derivations, supplementary material, and open questions that have not yet been fully stabilized.
 
 ---
 
