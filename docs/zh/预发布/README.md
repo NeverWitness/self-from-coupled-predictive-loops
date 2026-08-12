@@ -3,7 +3,7 @@
 > 基于预测动力学、时间压缩与信号耦合的意识结构性解释框架
 > **Self from Coupled Predictive Loops Hypothesis**
 
-[英文版本 English Version](README.md)
+[英文版本 English Version](/README.md)
 
 ---
 
