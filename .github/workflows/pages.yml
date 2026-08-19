@@ -40,7 +40,7 @@ jobs:
           rm -rf build_docs
           mkdir -p build_docs
           rsync -a --exclude '_drafts' docs/zh/预发布/ build_docs/zh/
-          rsync -a --exclude '_drafts' docs/en-US/ build_docs/en-US/
+          rsync -a --exclude '_drafts' docs/en-US/ build_docs/en/
           rsync -a docs/stylesheets build_docs
           #  rsync docs/google023d0b35621806c9.html build_docs
           rsync docs/robot.txt build_docs
@@ -84,7 +84,7 @@ jobs:
             cat README.md
           } > /tmp/en_index.md
 
-          mv /tmp/en_index.md build_docs/en-US/README.md
+          mv /tmp/en_index.md build_docs/en/README.md
 
       - name: Build site
         run: mkdocs build --strict
