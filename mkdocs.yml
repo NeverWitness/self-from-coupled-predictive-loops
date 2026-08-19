@@ -62,7 +62,7 @@ draft_docs: |
   en-US/_drafts/
 
 nav:
-  - 首页: index.md
+  - 首页: README.md
 
   - 理论:
       - 理论框架: theory.md
