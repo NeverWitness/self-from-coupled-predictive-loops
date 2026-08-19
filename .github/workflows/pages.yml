@@ -81,7 +81,7 @@ jobs:
             echo ""
             echo "---"
             echo ""
-            cat build_docs/en-US/README.md
+            cat README.md
           } > /tmp/en_index.md
 
           mv /tmp/en_index.md build_docs/en/index.md
