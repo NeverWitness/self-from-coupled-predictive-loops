@@ -87,7 +87,7 @@ jobs:
           mv /tmp/en_index.md build_docs/en/README.md
 
       - name: Build site
-        run: mkdocs build
+        run: mkdocs build --strict
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
