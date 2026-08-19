@@ -80,7 +80,7 @@ Agency = attribution based on sustained prediction–evolution matching
 
 在这一循环中，自我对应被持续维持的主导轨迹，体验对应轨迹上的不可分辨信号耦合，主动性对应实际演化与预测持续匹配之后的来源归因。
 
-→ [查看完整理论框架](./理论框架.md)
+→ [查看完整理论框架](./theory.md)
 
 ---
 
@@ -94,7 +94,7 @@ Agency = attribution based on sustained prediction–evolution matching
 * **主观体验（Experience）**：主导轨迹上不可分辨的多源信号耦合
 * **主动性（Agency）**：基于预测与实际演化持续匹配的归因机制
 
-→ [查看核心概念与术语定义](./核心概念.md)
+→ [查看核心概念与术语定义](./core_concepts.md)
 
 ---
 
@@ -147,7 +147,7 @@ Agency = attribution based on sustained prediction–evolution matching
 
 这些现象不再被看作彼此独立的问题，而被视为多预测、轨迹选择、连续性约束、信号耦合与归因共同作用后的不同表现。
 
-→ [查看解释能力](./解释能力.md)
+→ [查看解释能力](./explanatory_power.md)
 
 ---
 
@@ -171,7 +171,7 @@ Agency = attribution based on sustained prediction–evolution matching
 
 > 这些研究支持框架中的组成机制，并不等于已经验证“多预测—轨迹选择—不可分辨耦合”这一完整理论。
 
-→ [查看科学背景](./科学背景.md)
+→ [查看科学背景](./scientific_background.md)
 
 ---
 
@@ -190,7 +190,7 @@ Agency = attribution based on sustained prediction–evolution matching
 
 例如，理论预期：当多个候选轨迹之间的连续性误差非常接近时，主导轨迹应更容易发生切换；当预测与实际演化之间的持续匹配被破坏时，主动性感与自我归因应随之下降。
 
-→ [查看可检验预测](./可检验预测.md)
+→ [查看可检验预测](./predictions.md)
 
 ---
 
@@ -214,7 +214,7 @@ Agency = attribution based on sustained prediction–evolution matching
 
 因此，它目前不是对意识“硬问题”的解决方案。
 
-→ [查看完整局限性说明](./局限性.md)
+→ [查看完整局限性说明](./limitations.md)
 
 ---
 
