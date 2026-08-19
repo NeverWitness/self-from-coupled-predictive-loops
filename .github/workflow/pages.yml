@@ -38,7 +38,7 @@ jobs:
         run: |
           rm -rf build_docs
           mkdir -p build_docs
-          rsync -a --exclude '_drafts' docs/zh-CN/ build_docs/zh/
+          rsync -a --exclude '_drafts' docs/zh/ build_docs/zh/
           rsync -a --exclude '_drafts' docs/en-US/ build_docs/en/
           rsync -a docs/stylesheets build_docs
           #  rsync docs/google023d0b35621806c9.html build_docs
@@ -57,8 +57,8 @@ jobs:
           # 中文首页
           {
             echo "---"
-            echo "title: 技术费用框架"
-            echo "description: 技术费用框架：解释技术时代价格结构、技术扩散与收入分配的新模型"
+            echo "title: 耦合预测环自我生成假说"
+            echo "description: "
             echo "---"
             echo ""
             echo "> *Version: $VERSION · Build: $DATE*"
@@ -72,8 +72,8 @@ jobs:
           # 英文首页
           {
             echo "---"
-            echo "title: Technology Fee Framework"
-            echo "description: A framework explaining price structure, technology diffusion, and income distribution in the technological era"
+            echo "title: Self from Coupled Predictive Loops Hypothesis"
+            echo "description:"
             echo "---"
             echo ""
             echo "> *Version: $VERSION_EN_US · Build: $DATE*"
