@@ -39,7 +39,7 @@ jobs:
           mkdir -p build_docs
           rm -rf build_docs
           mkdir -p build_docs
-          rsync -a --exclude '_drafts' docs/zh/ build_docs/zh/
+          rsync -a --exclude '_drafts' docs/zh/预发布/ build_docs/zh/
           rsync -a --exclude '_drafts' docs/en-US/ build_docs/en/
           rsync -a docs/stylesheets build_docs
           #  rsync docs/google023d0b35621806c9.html build_docs
