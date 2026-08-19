@@ -27,7 +27,7 @@ plugins:
           build: true
           default: true
 
-        - locale: en-US
+        - locale: en
           name: English
           build: true
           nav_translations:
@@ -59,7 +59,7 @@ extra_css:
 
 draft_docs: |
   zh/_drafts/
-  en-US/_drafts/
+  en/_drafts/
 
 nav:
   - 首页: README.md
