@@ -36,6 +36,7 @@ jobs:
 
       - name: Prepare build docs
         run: |
+          mkdir -p build_docs
           rm -rf build_docs
           mkdir -p build_docs
           rsync -a --exclude '_drafts' docs/zh/ build_docs/zh/
